@@ -4,7 +4,7 @@
     "version": "1.0",
 
     "description": "Open bookmarks in predefined cookie containers.",
-    "homepage_url": "https://github.com/Greenscreener/ TODO: repo name",
+    "homepage_url": "https://github.com/Greenscreener/firefox-cookie-container-bookmarks",
     "icons": {
         "16": "icons/container-site-d-16.png",
         "32": "icons/container-site-d-32.png",

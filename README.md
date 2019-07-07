@@ -1,0 +1,2 @@
+# Firefox cookie container bookmarks
+This is a very simple extension. Firefox has "cookie containers" ([more here](https://github.com/mozilla/multi-account-containers)), but I needed to open a website in a predefined container with just one click. So I wrote this super simple thing. The bookmarks are predefined in the code and cannot be modified otherwise, because I couldn't be bothered to write a settings screen. 
